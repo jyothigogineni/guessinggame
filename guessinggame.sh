@@ -11,10 +11,10 @@ do
         then echo "too high value"
         else
 
-                echo "your guess is right"
+                echo "your guess of files is right"
                 break
         fi
 done
 }
-        guessdir
+ guessdir
         echo "total number of files in the current directory: $count"
